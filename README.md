@@ -15,19 +15,7 @@ Skills: Nextjs / REACT / JS / HTML / CSS / tailwind
 - 💬 Ask me about web development  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/k12amrul/k12amrul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100075912978027)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/k12amrul/k12amrul)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/k12amrul/k12amrul&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/k12amrul/k12amrul/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/k12amrul/k12amrul)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/k12amrul/k12amrul)  
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k12amrul&label=Profile%20views&color=0e75b6&style=flat" alt="k12amrul" /> </p>
 
